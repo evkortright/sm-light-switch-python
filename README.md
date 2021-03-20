@@ -1,0 +1,1 @@
+# sm-light-switch-python
